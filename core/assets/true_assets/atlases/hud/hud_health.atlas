@@ -1,0 +1,27 @@
+
+hud_health.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hud_heartEmpty
+  rotate: false
+  xy: 57, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+hud_heartFull
+  rotate: false
+  xy: 112, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+hud_heartHalf
+  rotate: false
+  xy: 2, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+door.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+door_closed
+  rotate: false
+  xy: 362, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: 1
+door_closed
+  rotate: false
+  xy: 146, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: 2
+door_closed
+  rotate: false
+  xy: 218, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: 3
+door_closed
+  rotate: false
+  xy: 290, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: 4
+door_open
+  rotate: false
+  xy: 74, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: 1
+door_open
+  rotate: false
+  xy: 2, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: 2
