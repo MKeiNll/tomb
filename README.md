@@ -4,7 +4,7 @@ A 2D platformer game. Made in LibGDX Java framework.
 
 ## Features
 
-+ 4 levels.
++ 4 challenging levels.
 + Various game mechanics, such as: gem collecting, springboards & spikes.
 
 More info at [nightcruise.io](https://nightcruise.io)
